@@ -20,3 +20,12 @@
 [21:32:08] Addressbook has been saved!
 [21:34:04] Addressbook has been loaded!
 [15:23:12] Addressbook has been loaded!
+[20:09:05] Addressbook has been loaded!
+[20:10:57] Contact Inkognito has been added.
+[20:10:57] Addressbook has been saved!
+[20:14:43] Addressbook has been loaded!
+[20:15:14] Addressbook has been saved!
+[11:14:25] Addressbook has been loaded!
+[11:15:04] Contact Max has been added.
+[11:15:04] Addressbook has been saved!
+[11:15:16] Addressbook has been saved!
